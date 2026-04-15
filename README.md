@@ -1,2 +1,2 @@
 # ai-memory-test
-this is updated readme fi
+this is updated readme file
